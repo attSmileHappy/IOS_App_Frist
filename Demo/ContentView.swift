@@ -22,6 +22,7 @@ struct ContentView: View {
             Text(place + " Hello, My world!")
             Text("\(name)님 안녕하세요!")
             // Swift의 문장 속 변수는 \() 원표시 괄호 조합인 듯
+            Text("\(name)님 안녕히가세요!")
             Text(name)
         }
         .padding()
