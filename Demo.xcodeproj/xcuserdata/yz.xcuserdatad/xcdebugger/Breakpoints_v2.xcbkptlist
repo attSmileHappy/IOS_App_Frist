@@ -18,6 +18,38 @@
             endingLineNumber = "12"
             landmarkName = "ContentView"
             landmarkType = "14">
+            <Locations>
+               <Location
+                  uuid = "EA6A52DC-E14C-4ABD-80A7-5CF1E5CBBAFD - 2eb8e05d1c90932"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Demo.ContentView.init() -&gt; Demo.ContentView"
+                  moduleName = "Demo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yz/Desktop/Dev/Dev/Demo/Demo/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "31">
+               </Location>
+               <Location
+                  uuid = "EA6A52DC-E14C-4ABD-80A7-5CF1E5CBBAFD - 7803224a5b5980f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "default argument 0 of Demo.ContentView.init(place: Swift.String, name: Swift.String, age: Swift.Int, height: Swift.Float, weight: Swift.Double, havePet: Swift.Bool) -&gt; Demo.ContentView"
+                  moduleName = "Demo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yz/Desktop/Dev/Dev/Demo/Demo/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
    </Breakpoints>
