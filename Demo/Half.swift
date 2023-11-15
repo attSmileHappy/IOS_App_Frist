@@ -26,8 +26,9 @@ struct Half: View {
                 var welcome = sayHi(to : nameList)
                 if nameList == "예지" {
                     Text("이 채널의 주인인 \(welcome)")
+                } else{
+                    Text(welcome)
                 }
-                Text(welcome)
             }
            
         }
