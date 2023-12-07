@@ -23,6 +23,7 @@ enum Direction: String {
     case east = "동"
     case west = "서"
     case south = "남"
+    case myway = "나만의 길"
 }
 
 enum Member : String {
@@ -35,7 +36,7 @@ enum Menu {
     case pizza
     case pasta (Int)
     case steak(String)
-    // case의 연관된 값을 함께 넣어줄 수도 있음.
+     //case의 연관된 값을 함께 넣어줄 수도 있음.
 }
 
 enum Steak : String {
