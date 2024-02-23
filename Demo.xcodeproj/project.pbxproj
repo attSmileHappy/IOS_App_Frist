@@ -8,6 +8,10 @@
 
 /* Begin PBXBuildFile section */
 		3B140B5D2B038BE600767034 /* Condition.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B140B5C2B038BE600767034 /* Condition.swift */; };
+		3B3110CA2B04D1D600B990DA /* Function.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B3110C92B04D1D600B990DA /* Function.swift */; };
+		3B3110CE2B04DD1E00B990DA /* Half.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B3110CD2B04DD1E00B990DA /* Half.swift */; };
+		3B6B5D462B88D9B60086D0D9 /* Nil.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B6B5D452B88D9B60086D0D9 /* Nil.swift */; };
+		3B6B5D4A2B88E4580086D0D9 /* Option.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B6B5D492B88E4580086D0D9 /* Option.swift */; };
 		3B85F8B62AF080EF00EEC4AC /* DemoApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B85F8B52AF080EF00EEC4AC /* DemoApp.swift */; };
 		3B85F8B82AF080EF00EEC4AC /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B85F8B72AF080EF00EEC4AC /* ContentView.swift */; };
 		3B85F8BA2AF080F500EEC4AC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3B85F8B92AF080F500EEC4AC /* Assets.xcassets */; };
@@ -15,6 +19,10 @@
 		3B85F8C72AF080F600EEC4AC /* DemoTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B85F8C62AF080F600EEC4AC /* DemoTests.swift */; };
 		3B85F8D12AF080F600EEC4AC /* DemoUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B85F8D02AF080F600EEC4AC /* DemoUITests.swift */; };
 		3B85F8D32AF080F600EEC4AC /* DemoUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B85F8D22AF080F600EEC4AC /* DemoUITestsLaunchTests.swift */; };
+		3BC07BE92B214F7600DB0290 /* Choice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3BC07BE82B214F7600DB0290 /* Choice.swift */; };
+		3BC07BEB2B215FA800DB0290 /* Selection.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3BC07BEA2B215FA800DB0290 /* Selection.swift */; };
+		3BCA5B002B05DD2800399F38 /* Elevator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3BCA5AFF2B05DD2800399F38 /* Elevator.swift */; };
+		3BCA5B022B07536100399F38 /* Diff.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3BCA5B012B07536100399F38 /* Diff.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +44,10 @@
 
 /* Begin PBXFileReference section */
 		3B140B5C2B038BE600767034 /* Condition.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Condition.swift; sourceTree = "<group>"; };
+		3B3110C92B04D1D600B990DA /* Function.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Function.swift; sourceTree = "<group>"; };
+		3B3110CD2B04DD1E00B990DA /* Half.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Half.swift; sourceTree = "<group>"; };
+		3B6B5D452B88D9B60086D0D9 /* Nil.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Nil.swift; sourceTree = "<group>"; };
+		3B6B5D492B88E4580086D0D9 /* Option.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Option.swift; sourceTree = "<group>"; };
 		3B85F8B22AF080EF00EEC4AC /* Demo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Demo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3B85F8B52AF080EF00EEC4AC /* DemoApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DemoApp.swift; sourceTree = "<group>"; };
 		3B85F8B72AF080EF00EEC4AC /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -46,6 +58,10 @@
 		3B85F8CC2AF080F600EEC4AC /* DemoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = DemoUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		3B85F8D02AF080F600EEC4AC /* DemoUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DemoUITests.swift; sourceTree = "<group>"; };
 		3B85F8D22AF080F600EEC4AC /* DemoUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DemoUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		3BC07BE82B214F7600DB0290 /* Choice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Choice.swift; sourceTree = "<group>"; };
+		3BC07BEA2B215FA800DB0290 /* Selection.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Selection.swift; sourceTree = "<group>"; };
+		3BCA5AFF2B05DD2800399F38 /* Elevator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Elevator.swift; sourceTree = "<group>"; };
+		3BCA5B012B07536100399F38 /* Diff.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Diff.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +117,14 @@
 				3B85F8B92AF080F500EEC4AC /* Assets.xcassets */,
 				3B85F8BB2AF080F500EEC4AC /* Preview Content */,
 				3B140B5C2B038BE600767034 /* Condition.swift */,
+				3B3110C92B04D1D600B990DA /* Function.swift */,
+				3B3110CD2B04DD1E00B990DA /* Half.swift */,
+				3BCA5AFF2B05DD2800399F38 /* Elevator.swift */,
+				3BCA5B012B07536100399F38 /* Diff.swift */,
+				3BC07BE82B214F7600DB0290 /* Choice.swift */,
+				3BC07BEA2B215FA800DB0290 /* Selection.swift */,
+				3B6B5D452B88D9B60086D0D9 /* Nil.swift */,
+				3B6B5D492B88E4580086D0D9 /* Option.swift */,
 			);
 			path = Demo;
 			sourceTree = "<group>";
@@ -260,9 +284,17 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3BCA5B022B07536100399F38 /* Diff.swift in Sources */,
+				3B6B5D462B88D9B60086D0D9 /* Nil.swift in Sources */,
 				3B85F8B82AF080EF00EEC4AC /* ContentView.swift in Sources */,
+				3B6B5D4A2B88E4580086D0D9 /* Option.swift in Sources */,
+				3BC07BE92B214F7600DB0290 /* Choice.swift in Sources */,
+				3B3110CE2B04DD1E00B990DA /* Half.swift in Sources */,
 				3B140B5D2B038BE600767034 /* Condition.swift in Sources */,
 				3B85F8B62AF080EF00EEC4AC /* DemoApp.swift in Sources */,
+				3BC07BEB2B215FA800DB0290 /* Selection.swift in Sources */,
+				3B3110CA2B04D1D600B990DA /* Function.swift in Sources */,
+				3BCA5B002B05DD2800399F38 /* Elevator.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
